@@ -1,0 +1,1 @@
+これはsingle-store
